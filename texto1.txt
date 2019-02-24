@@ -1,0 +1,10 @@
+dir texto1.txt
+ls 
+x
+echo[D[D[De[C[C[C
+/exit
+
+mkdir hola
+ls
+ls
+cat>exit
